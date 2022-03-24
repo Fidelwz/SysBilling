@@ -1,0 +1,17 @@
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\bin\Debug\net6.0\SysBilling.deps.json
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\bin\Debug\net6.0\SysBilling.runtimeconfig.json
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\bin\Debug\net6.0\SysBilling.dll
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\bin\Debug\net6.0\SysBilling.pdb
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\bin\Debug\net6.0\SysBilling.EL.dll
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\bin\Debug\net6.0\SysBilling.EL.pdb
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.csproj.AssemblyReference.cache
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.AssemblyInfoInputs.cache
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.AssemblyInfo.cs
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.csproj.CoreCompileInputs.cache
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.csproj.CopyComplete
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.dll
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\refint\SysBilling.dll
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.pdb
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\SysBilling.genruntimeconfig.cache
+C:\Users\j_ram\Desktop\SysBilling\SysBilling\obj\Debug\net6.0\ref\SysBilling.dll

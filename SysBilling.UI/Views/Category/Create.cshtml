@@ -1,0 +1,28 @@
+﻿@model SysBilling.EL.Category
+
+@using (Html.BeginForm("Create","Category",FormMethod.Post,new {@class="form-Horizon"})){
+   
+    <h2>Registro de categorias </h2>
+   
+    <div class="col-md-6 offset-md-3">
+
+        <div class="form-group">
+            @Html.LabelFor(c => c.Name )
+            @Html.TextBoxFor(c => c.Name ,new {@class="from-control form-control-sm"})
+            </div>
+
+            <div class="form-group">
+            @Html.LabelFor(c => c.ImageURL)
+            @Html.TextBoxFor(c => c.ImageURL , new 
+                {@class="form-control form-control-sm" ,type="file"})
+
+
+        </div>
+
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" > 
+        </div>
+
+        </div>
+
+}

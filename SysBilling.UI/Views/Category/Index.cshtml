@@ -1,0 +1,16 @@
+﻿@model ICollection<SysBilling.EL.Category>
+
+
+    @Html.ActionLink("Agregar", "Create" , new {@class="btn btn-primary"})
+ <div class="card" style="width: 18rem;">
+    @foreach (var item in Model)
+    {
+       
+            <img src="@item.ImageURL" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">Has click en el boton para ver los registros.</p>
+                <a href="#" class="btn btn-primary">Ver productos</a>
+            </div>
+       
+    }</div>
