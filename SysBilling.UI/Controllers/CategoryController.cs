@@ -12,28 +12,8 @@ namespace SysBilling.UI.Controllers
 
 
 
-        private string SaveFile(IFormFile file)
-        {
-
-            FileViewModels fileviewmodel = new FileViewModels();
-            //renombrar el archivo
-          fileviewmodel.Name = Guid.NewGuid().ToString() + file.Name;
-            fileviewmodel.Path = Path.Combine(Directory.GetCurrentDirectory() + file.Name);
-
-            //guardar la immage en la carpeta img
-
-            using var stream = new FileStream(fileviewmodel.Path, FileMode.Create);
-            fileviewmodel.File.CopyTo(stream);
-            //guardar la ruta relativa del archivo en sql
 
 
-            //retornar la ruta relativa del archivo
-            return "..\\img\\" + fileviewmodel.Name;
-
-
-               
-        }
-        
 
 
 
@@ -66,15 +46,18 @@ namespace SysBilling.UI.Controllers
         // POST: CategoryController1/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Category category , FileViewModels file)
+        public ActionResult Create(Category category, IFormFile file)
         {
             try
             {
+
+                category.ImageURL = FileViewModels.SaveFile(file);
                 if (ModelState.IsValid)
                 {
 
-                    category.ImageURL = SaveFile(file);
+
                     _categoryBL.AddSingleCategory(category);
+                    return RedirectToAction(nameof(Index));
 
                 }
                 return View();

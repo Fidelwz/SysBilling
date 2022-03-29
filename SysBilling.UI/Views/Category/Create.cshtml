@@ -1,6 +1,6 @@
 ﻿@model SysBilling.EL.Category
 
-@using (Html.BeginForm("Create","Category",FormMethod.Post,new {@class="form-Horizon"})){
+@using (Html.BeginForm("Create","Category",FormMethod.Post,new {@class="multipart-form-data"})){
    
     <h2>Registro de categorias </h2>
    
@@ -13,9 +13,9 @@
 
             <div class="form-group">
             @Html.LabelFor(c => c.ImageURL)
-            @Html.TextBoxFor(c => c.ImageURL , new 
-                {@class="form-control form-control-sm" ,type="file"})
-
+@*            @Html.TextBoxFor(c => c.ImageURL , new 
+                {@class="form-control form-control-sm" ,type="file"})*@
+                <input type="file" name="file" class="form-control form-carousel-control-sm"/>
 
         </div>
 
@@ -26,3 +26,4 @@
         </div>
 
 }
+ 
