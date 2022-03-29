@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2ef342d-8164-4e1a-8943-10f53171798a": {
+      "ProjectGuid": "a2ef342d-8164-4e1a-8943-10f53171798a",
+      "DisplayName": "SysBilling.UI",
+      "ColorIndex": 0
+    },
+    "9d0f3a30-fac2-4a7a-898f-bb7caaa7f8c3": {
+      "ProjectGuid": "9d0f3a30-fac2-4a7a-898f-bb7caaa7f8c3",
+      "DisplayName": "SysBilling.EL",
+      "ColorIndex": 1
+    },
+    "b0f5de9c-7d39-4c4c-839e-0b37a965fef0": {
+      "ProjectGuid": "b0f5de9c-7d39-4c4c-839e-0b37a965fef0",
+      "DisplayName": "SysBilling.DAL",
+      "ColorIndex": 2
+    },
+    "c604761a-533b-416b-867e-203b0ff2601b": {
+      "ProjectGuid": "c604761a-533b-416b-867e-203b0ff2601b",
+      "DisplayName": "SysBilling.BL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
