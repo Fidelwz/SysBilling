@@ -46,13 +46,13 @@ namespace SysBilling.UI.Controllers
         // POST: CategoryController1/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Category category, IFormFile file)
+        public ActionResult Create(Category category, IFormFile FileUpload)
         {
             try
             {
 
-                category.ImageURL = FileViewModels.SaveFile(file);
-                if (ModelState.IsValid)
+                category.ImageURL = FileViewModel.SaveFile(FileUpload);
+                if (!ModelState.IsValid)
                 {
 
 

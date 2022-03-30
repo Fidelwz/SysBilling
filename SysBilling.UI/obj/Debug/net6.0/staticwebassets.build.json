@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cJYGQkFz50PbeC+ngposU8Lo5GVHgNPPa3X7oeeIGnI=",
+  "Hash": "G07Rjk2lYSP0MzovTYHYHXzSFOiSOlH6oX7fI1rOY8I=",
   "Source": "SysBilling.UI",
   "BasePath": "_content/SysBilling.UI",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\568540-clouds-road.jpg",
+      "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\34ca6ed2-f796-41c0-96a5-906c4cd6c5a4Captura de pantalla (1).png",
       "SourceId": "SysBilling.UI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\",
       "BasePath": "_content/SysBilling.UI",
-      "RelativePath": "img/568540-clouds-road.jpg",
+      "RelativePath": "img/34ca6ed2-f796-41c0-96a5-906c4cd6c5a4Captura de pantalla (1).png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\568540-clouds-road.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\34ca6ed2-f796-41c0-96a5-906c4cd6c5a4Captura de pantalla (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\3eac39ea-6625-4ead-8529-56ece1aec385Captura de pantalla (1).png",
+      "SourceId": "SysBilling.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\",
+      "BasePath": "_content/SysBilling.UI",
+      "RelativePath": "img/3eac39ea-6625-4ead-8529-56ece1aec385Captura de pantalla (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\3eac39ea-6625-4ead-8529-56ece1aec385Captura de pantalla (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\bc53cc2f-3f43-4f07-b639-3420755a3c3dCaptura de pantalla (19).png",
+      "SourceId": "SysBilling.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\",
+      "BasePath": "_content/SysBilling.UI",
+      "RelativePath": "img/bc53cc2f-3f43-4f07-b639-3420755a3c3dCaptura de pantalla (19).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bc53cc2f-3f43-4f07-b639-3420755a3c3dCaptura de pantalla (19).png"
     },
     {
       "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\js\\site.js",

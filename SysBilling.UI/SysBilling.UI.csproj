@@ -20,4 +20,8 @@
     <ProjectReference Include="..\SysBilling.EL\SysBilling.EL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\img\" />
+  </ItemGroup>
+
 </Project>

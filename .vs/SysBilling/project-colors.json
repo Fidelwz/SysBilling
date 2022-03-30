@@ -20,6 +20,11 @@
       "ProjectGuid": "c604761a-533b-416b-867e-203b0ff2601b",
       "DisplayName": "SysBilling.BL",
       "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 4
