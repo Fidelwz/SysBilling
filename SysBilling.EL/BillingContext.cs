@@ -18,7 +18,7 @@ namespace SysBilling.EL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-3H97816\SQLEXPRESS;Initial Catalog=DbBillin;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-1MG8MA7\SQLEXPRESS;Initial Catalog=DbBillin;Integrated Security=True");
         }
     }
 }

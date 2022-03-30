@@ -9,8 +9,8 @@ using SysBilling.EL;
 namespace SysBilling.EL.Migrations
 {
     [DbContext(typeof(BillingContext))]
-    [Migration("20220324143824_initial")]
-    partial class initial
+    [Migration("20220330225419_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
