@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G07Rjk2lYSP0MzovTYHYHXzSFOiSOlH6oX7fI1rOY8I=",
+  "Hash": "bhogMQ/3aqeBqeUkIRpMcP5nLNQbSmz6BkfpOsN4HcU=",
   "Source": "SysBilling.UI",
   "BasePath": "_content/SysBilling.UI",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\27da4b99-a94b-4bf9-9da1-71f19b42cd39Captura de pantalla (3).png",
+      "SourceId": "SysBilling.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\",
+      "BasePath": "_content/SysBilling.UI",
+      "RelativePath": "img/27da4b99-a94b-4bf9-9da1-71f19b42cd39Captura de pantalla (3).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\27da4b99-a94b-4bf9-9da1-71f19b42cd39Captura de pantalla (3).png"
+    },
+    {
       "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\34ca6ed2-f796-41c0-96a5-906c4cd6c5a4Captura de pantalla (1).png",
       "SourceId": "SysBilling.UI",
       "SourceType": "Discovered",
@@ -134,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bc53cc2f-3f43-4f07-b639-3420755a3c3dCaptura de pantalla (19).png"
+    },
+    {
+      "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\img\\e7ba8019-dd44-45ce-ae73-3f7255ab4348Captura de pantalla (20).png",
+      "SourceId": "SysBilling.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\",
+      "BasePath": "_content/SysBilling.UI",
+      "RelativePath": "img/e7ba8019-dd44-45ce-ae73-3f7255ab4348Captura de pantalla (20).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\e7ba8019-dd44-45ce-ae73-3f7255ab4348Captura de pantalla (20).png"
     },
     {
       "Identity": "C:\\Users\\Fsosiety\\Desktop\\SysBilling\\SysBilling\\SysBilling.UI\\wwwroot\\js\\site.js",
